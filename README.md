@@ -250,6 +250,3 @@ Time To Travel
 <footer>
 © Time To Travel - туристическое агенство
 </footer>
-
-</body>
-</html>
